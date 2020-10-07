@@ -8,6 +8,8 @@ Please join my Discord server here for assistance with the module: [XeriApps Sup
 
 # Prerequisites
 - A Lavalink node.
+
+[![Run on Repl.it](https://repl.it/badge/github/BluSpring/discord.js-lavalink-musicbot)](https://repl.it/github/BluSpring/discord.js-lavalink-musicbot)
 - Java 13 (if you don't have one)
 - Node.js 12
 - A brain...
